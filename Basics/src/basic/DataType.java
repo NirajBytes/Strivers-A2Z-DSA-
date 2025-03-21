@@ -39,6 +39,8 @@ public class DataType {
 			System.out.println("Size of "+str+" is "+dataTypeSize(str));
 		}
 		
+		
+		sc.close();
 	}
 
 }
